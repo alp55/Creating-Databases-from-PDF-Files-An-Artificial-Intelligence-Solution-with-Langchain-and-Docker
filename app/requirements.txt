@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+langchain == 0.0.281
+pypdf
+openai
+pydantic
+qdrant-client
+tiktoken
+chromadb
